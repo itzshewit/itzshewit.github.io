@@ -1,6 +1,6 @@
 # Shewit Gebreegziabher — Portfolio
 
-Personal portfolio site for selected projects, education-technology ideas, and learning notes.
+Personal portfolio site for selected software projects, problem-solving notes, and learning.
 
 **Visit:** https://itzshewit.github.io
 
